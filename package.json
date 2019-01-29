@@ -1,0 +1,22 @@
+{
+  "name": "initanimationframe",
+  "version": "0.0.1",
+  "description": "A package that allow you set your animation frame when draw layout action is happening.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LtHelo/setAnimationFrame.git"
+  },
+  "keywords": [
+    "animation"
+  ],
+  "author": "helo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LtHelo/setAnimationFrame/issues"
+  },
+  "homepage": "https://github.com/LtHelo/setAnimationFrame#readme"
+}
