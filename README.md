@@ -10,4 +10,4 @@ A package that allow you set your animation frame when draw layout action is hap
 
 ## :)
 
-### click this link  https://codepen.io/lthelo/pen/BMLOEP.
+### click this link to see a tutorial.  https://codepen.io/lthelo/pen/BMLOEP.
