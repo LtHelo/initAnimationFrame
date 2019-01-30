@@ -1,6 +1,6 @@
 {
   "name": "initanimationframe",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "A package that allow you set your animation frame when draw layout action is happening.",
   "main": "index.js",
   "scripts": {
