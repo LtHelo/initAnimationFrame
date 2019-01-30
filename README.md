@@ -5,7 +5,7 @@ A package that allow you set your animation frame when draw layout action is hap
 
 * npm install initanimationframe
 * import InitAnimationFrame from 'initAnimationFrame'
-* const initAnimationFrame = new IetAnimationFrame(yourcode, frame)
+* const initAnimationFrame = new InitAnimationFrame(yourcode, frame)
 * setAnimationFrame.initAnimation()
 
 ## :)
